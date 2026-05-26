@@ -108,31 +108,6 @@ Built collaboratively by a team committed to delivering enterprise-quality analy
 
 ---
 
-## 📝 Getting Started
-
-*(Add specific setup instructions below)*
-
-```bash
-# Clone the repository
-git clone https://github.com/RighteousNwariwe/ClearVue-Sales-report-main-.git
-cd ClearVue-Sales-report-main-
-
-# [Add installation steps for dependencies]
-# [Add instructions for setting up databases]
-# [Add Kafka configuration steps]
-# [Add Power BI dashboard setup]
-```
-
----
-
-## 📚 Documentation
-
-- **Data Schema**: [Link to schema documentation]
-- **API Reference**: [Link to API docs]
-- **Kafka Configuration**: [Link to config details]
-- **Dashboard Guide**: [Link to dashboard documentation]
-
----
 
 ## 🔐 Production Features
 
@@ -162,17 +137,3 @@ This system is designed with:
 - Version control & deployment pipelines
 
 ---
-
-## 📧 Contact & Inquiries
-
-For questions about this project or collaboration opportunities, feel free to reach out.
-
----
-
-## 📄 License
-
-[Add appropriate license information]
-
----
-
-**Built with 💪 by the ClearVue Analytics Team**
